@@ -14,7 +14,7 @@ I AM CURRENTLY FOCUSED ON:
 
 -Linux & System Administration
 
--Artificial Intelligence & Machine Learning
+-Artificial Intelligence & Machine Learning 
 
 -Cybersecurity Research
 
