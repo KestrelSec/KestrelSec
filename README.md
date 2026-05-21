@@ -105,9 +105,9 @@ VMware | Kali Linux | Parrot OS | Networking | Cybersecurity | AI
 
 CONNECT WITH ME:
 
-Github: https//github.com/Kestrelsec
+Github: https//github.com/
 
-Email:kestrelsec@proton.me
+Email:goshawksec@protonmail.com
 
 MOTTO: Continuous learning and practical experience drive innovation and security.
 
